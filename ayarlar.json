@@ -1,0 +1,27 @@
+  {
+  "prefix":   "PREFİX",
+  "token":    "TOKEN",
+  "sahip":    "SAHİP İD",
+  
+  "yetkili":        "YETKİLİ İDNİZ",
+  "erkekrol":       "ERKEK ROL",
+  "erkekrol2":      "2. ERKEK ROL",
+  "kizrol":         "KIZ ROL",
+  "kizrol2":        "2. KIZ ROL",
+  "kayıtsız":    "KAYITSIZ ROL",
+  
+  "genelsohbet": "GENEL SOHBET İD",
+  "kayıtsohbet": "KAYIT SOHBET İD",
+  "odayagir": "BOTU ODAYA SOKAR",
+
+    
+  "sunucu":            "SUNUCU İD",
+  "tagkanal":          "TAG KANAL İD",
+  "tagrol":            "TAG ALANA ROL İD",
+  "cezalı":            "CEZALI İD",
+
+  "tag":"TAGINIZ" , 
+  "yasaklıtag":"VARSA YASAKLI TAGINIZ YOKSA BOŞ BIRAKIN"  
+
+
+  }
